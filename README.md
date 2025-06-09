@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![wakatime](https://wakatime.com/badge/user/70ddbe18-d9cc-4e76-901b-edbd62f97640.svg)
+[![wakatime](https://wakatime.com/badge/user/70ddbe18-d9cc-4e76-901b-edbd62f97640.svg)](https://wakatime.com/@difome)
+
 <h1>GitHub Stats</h1>
 
 <div>
